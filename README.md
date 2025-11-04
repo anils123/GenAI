@@ -59,4 +59,5 @@ Deployed NVIDIA NIM endpoints on AWS SageMaker for both:
 LLM (llama-3.1-nemotron-nano-8b-v1)
 Retrieval Embedding (nv-embedqa-e5-v5 or similar)
 
-Run the GitHub code  and analyze the results.
+Execute the GitHub code AI_Research_Assistant-Final.ipynb with Sagemaker Studio or other Jupyter Notebook IDE and analyze the results.
+The variables llm_endpoint_name and embedding_endpoint_name need to be defined before testing. Here's the complete corrected workflow:
