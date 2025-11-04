@@ -53,7 +53,7 @@ Model Specifications:[3][4][5]
 Reasoning Mode Control:[6][7]
 The model's reasoning capability is controlled via system prompts:
 
-#Deployment
+# Deployment
 To execute the code , make sure that Prerequisites
 Deployed NVIDIA NIM endpoints on AWS SageMaker for both:
 LLM (llama-3.1-nemotron-nano-8b-v1)
