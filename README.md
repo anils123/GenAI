@@ -2,6 +2,25 @@
 
 This guide provides a complete blueprint for building an Agentic AI Application . The application leverages Llama-3.1-Nemotron-Nano-8B-v1 with reasoning capabilities, deployed as an NVIDIA NIM inference microservice, integrated with NeMo Retriever Embedding NIM for Retrieval-Augmented Generation (RAG), all running on AWS infrastructure.[1][2]
 
+The
+AI Research Assistant Navigator
+is an intelligent, autonomous agentic AI system designedto revolutionize how researchers discover, analyze, and synthesize academic literature. Built on
+Llama-3.1-Nemotron-Nano-8B-v1
+with advanced reasoning capabilities and powered by
+NVIDIA NIM microservices
+on AWS, this application autonomously navigates vast academicdatabases, performs deep literature analysis, generates comprehensive summaries, andvisualizes research landscapes through citation network analysis.
+Key Differentiators
+:
+Create AI Research Assistant Navigator: Agentic Application for AWS & NVIDIA
+#Executive Overview
+Autonomous multi-step research workflows with minimal human intervention
+Deep reasoning mode for complex query understanding and hypothesis generation
+Real-time citation network analysis and trend detection
+Cross-database federated search (arXiv, Semantic Scholar, PubMed)
+Automated systematic literature reviews with PRISMA compliance
+Interactive research landscape visualization
+<img width="586" height="724" alt="image" src="https://github.com/user-attachments/assets/e934b749-01cd-4593-9f09-49e072e289db" />
+
 Core Technical Requirements:[2][1]
 •	LLM: Llama-3.1-Nemotron-Nano-8B-v1 with reasoning mode enabled
 •	Deployment: NVIDIA NIM inference microservice
